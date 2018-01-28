@@ -5,7 +5,7 @@
 
 Welcome to Zycle's documentation!
 =================================
-Providing bikes and helments to underserved young citizens.
+Zycle provides bikes and helments to underserved young citizens.
 
 .. toctree::
    :maxdepth: 2
